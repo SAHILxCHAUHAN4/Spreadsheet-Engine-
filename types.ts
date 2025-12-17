@@ -1,4 +1,3 @@
-
 export interface CellData {
   id: string;
   raw: string;
