@@ -1,5 +1,5 @@
 {
-  "name": "Copy of Gemini Spreadsheet Engine",
+  "name": "Spreadsheet Engine",
   "description": "A high-performance React-based spreadsheet with complex formula evaluation, dependency tracking, and circular reference detection.",
   "requestFramePermissions": []
 }
